@@ -1,8 +1,8 @@
 cask "plainonly" do
-  version "0.3.0"
-  sha256 "a787cd13857c70bdc5179669b673f9b18c0a15999313999b985e78f2bd0c199a"
+  version "0.3.1"
+  sha256 "e7213a6b6f48465e99dd73d38a594f6486170584d7b37716f0c255f8b5dfa985"
 
-  url "https://github.com/purplitinc/homebrew-apps/releases/download/plainonly-0.3.0/PlainOnly-0.3.0.zip"
+  url "https://github.com/purplitinc/homebrew-apps/releases/download/plainonly-0.3.1/PlainOnly-0.3.1.zip"
   name "PlainOnly"
   desc "A lightweight macOS text editor designed for clean, distraction-free plain text writing."
   homepage "https://plainonly.purplit.com"
